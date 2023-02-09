@@ -1,0 +1,6 @@
+/Users/nati/Projects/FoodOrganizer/FoodOrganizer/obj/Debug/FoodOrganizer.csproj.AssemblyReference.cache
+/Users/nati/Projects/FoodOrganizer/FoodOrganizer/obj/Debug/FoodOrganizer.csproj.CoreCompileInputs.cache
+/Users/nati/Projects/FoodOrganizer/FoodOrganizer/bin/Debug/FoodOrganizer.exe
+/Users/nati/Projects/FoodOrganizer/FoodOrganizer/bin/Debug/FoodOrganizer.pdb
+/Users/nati/Projects/FoodOrganizer/FoodOrganizer/obj/Debug/FoodOrganizer.exe
+/Users/nati/Projects/FoodOrganizer/FoodOrganizer/obj/Debug/FoodOrganizer.pdb
